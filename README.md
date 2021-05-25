@@ -1,4 +1,4 @@
-<h1>Smart ID Scanner | Tapas Sahu</h1>
+<h1>Smart ID Scanner</h1>
 
 An application that extracts text from images and stores it in a very secured environment and manages the data with maximum efficiency.
 
