@@ -16,6 +16,7 @@ Technologies implemented:
   8. HTML
   9. CSS
   10. Javascript
+  11. Docker
   
   
    Developed by:
